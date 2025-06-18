@@ -1,2 +1,2 @@
 # june-eightteenth
-A workshop repo
+Hallo zusammen. Willkommen zum Branching Workshop
